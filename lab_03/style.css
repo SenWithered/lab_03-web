@@ -1,0 +1,22 @@
+.table {
+    border-collapse: collapse;
+    width: 500px;
+    border: 1px solid #6395ff;
+    margin: 0 auto;
+}
+
+.table th, .table td {
+    border: 1px solid #6395ff;
+    padding: 5px 10px;
+    text-align: left;
+}
+
+.table th {
+    background-color: #5776b1;
+    color: #fff;
+}
+
+.table tfoot td {
+    text-align: right;
+    font-weight: bold;
+}
